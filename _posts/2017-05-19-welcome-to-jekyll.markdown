@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Fey's Website!"
 date:   2017-05-19 17:16:40 +0000
 categories: jekyll update
 ---
